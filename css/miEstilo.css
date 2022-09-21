@@ -1,0 +1,49 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #37a851;
+    background-color: lightblue;
+}
+
+form{
+    width: 350px;
+    padding: 16px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: rgb(27, 234, 165);
+    
+}
+
+form input{
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+button{
+    text-align: center;
+    font-weight: bolder;
+    background-color: #377ba8;
+    color: rgb(237, 237, 237);
+    border: none;
+    padding: 7px;
+    border-radius: 4px;
+    margin-top: 10px;            
+}
+
+button:hover{
+    background-color: #1b1bee;
+    cursor: pointer;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #377ba8;
+}
+body{
+    background-color: rgba(120, 165, 15, 0.36);
+    /* background-image: url('images/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
